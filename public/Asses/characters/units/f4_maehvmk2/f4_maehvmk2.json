@@ -1,0 +1,99 @@
+{
+  "id": "f4_maehvmk2",
+  "cell": [
+    130,
+    130
+  ],
+  "animations": {
+    "attack": {
+      "file": "f4_maehvmk2_attack.png",
+      "frames": 29,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "breathing": {
+      "file": "f4_maehvmk2_breathing.png",
+      "frames": 14,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 8.33,
+      "frame_duration_ms": 120,
+      "loop": true
+    },
+    "cast": {
+      "file": "f4_maehvmk2_cast.png",
+      "frames": 11,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "castend": {
+      "file": "f4_maehvmk2_castend.png",
+      "frames": 5,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "castloop": {
+      "file": "f4_maehvmk2_castloop.png",
+      "frames": 5,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    },
+    "caststart": {
+      "file": "f4_maehvmk2_caststart.png",
+      "frames": 4,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "death": {
+      "file": "f4_maehvmk2_death.png",
+      "frames": 19,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "hit": {
+      "file": "f4_maehvmk2_hit.png",
+      "frames": 3,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "idle": {
+      "file": "f4_maehvmk2_idle.png",
+      "frames": 20,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    },
+    "run": {
+      "file": "f4_maehvmk2_run.png",
+      "frames": 8,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    }
+  }
+}

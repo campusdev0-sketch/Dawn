@@ -1,0 +1,6 @@
+{
+  "name": "Marrowblade",
+  "description": "A fast-paced 2D skull-swapping beat-'em-up action roguelite set in a moonlit gothic citadel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

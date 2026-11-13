@@ -1,0 +1,617 @@
+{
+  "pack": "Free Sampler",
+  "units": [
+    {
+      "id": "f1_bromemk2",
+      "cell": [
+        130,
+        130
+      ],
+      "animations": {
+        "attack": {
+          "file": "f1_bromemk2_attack.png",
+          "frames": 28,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "breathing": {
+          "file": "f1_bromemk2_breathing.png",
+          "frames": 14,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 8.33,
+          "frame_duration_ms": 120,
+          "loop": true
+        },
+        "cast": {
+          "file": "f1_bromemk2_cast.png",
+          "frames": 10,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "castend": {
+          "file": "f1_bromemk2_castend.png",
+          "frames": 6,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "castloop": {
+          "file": "f1_bromemk2_castloop.png",
+          "frames": 8,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        },
+        "caststart": {
+          "file": "f1_bromemk2_caststart.png",
+          "frames": 7,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "death": {
+          "file": "f1_bromemk2_death.png",
+          "frames": 14,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "hit": {
+          "file": "f1_bromemk2_hit.png",
+          "frames": 3,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "idle": {
+          "file": "f1_bromemk2_idle.png",
+          "frames": 10,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        },
+        "run": {
+          "file": "f1_bromemk2_run.png",
+          "frames": 10,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        }
+      }
+    },
+    {
+      "id": "f2_tier2general",
+      "cell": [
+        134,
+        134
+      ],
+      "animations": {
+        "attack": {
+          "file": "f2_tier2general_attack.png",
+          "frames": 40,
+          "frame_width": 134,
+          "frame_height": 134,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "breathing": {
+          "file": "f2_tier2general_breathing.png",
+          "frames": 14,
+          "frame_width": 134,
+          "frame_height": 134,
+          "fps": 6.67,
+          "frame_duration_ms": 150,
+          "loop": true
+        },
+        "cast": {
+          "file": "f2_tier2general_cast.png",
+          "frames": 13,
+          "frame_width": 134,
+          "frame_height": 134,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "castend": {
+          "file": "f2_tier2general_castend.png",
+          "frames": 4,
+          "frame_width": 134,
+          "frame_height": 134,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "castloop": {
+          "file": "f2_tier2general_castloop.png",
+          "frames": 4,
+          "frame_width": 134,
+          "frame_height": 134,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        },
+        "caststart": {
+          "file": "f2_tier2general_caststart.png",
+          "frames": 8,
+          "frame_width": 134,
+          "frame_height": 134,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "death": {
+          "file": "f2_tier2general_death.png",
+          "frames": 19,
+          "frame_width": 134,
+          "frame_height": 134,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "hit": {
+          "file": "f2_tier2general_hit.png",
+          "frames": 3,
+          "frame_width": 134,
+          "frame_height": 134,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "idle": {
+          "file": "f2_tier2general_idle.png",
+          "frames": 16,
+          "frame_width": 134,
+          "frame_height": 134,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        },
+        "run": {
+          "file": "f2_tier2general_run.png",
+          "frames": 8,
+          "frame_width": 134,
+          "frame_height": 134,
+          "fps": 14.29,
+          "frame_duration_ms": 70,
+          "loop": true
+        }
+      }
+    },
+    {
+      "id": "f3_grandmasternoshrak",
+      "cell": [
+        130,
+        130
+      ],
+      "animations": {
+        "attack": {
+          "file": "f3_grandmasternoshrak_attack.png",
+          "frames": 35,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "breathing": {
+          "file": "f3_grandmasternoshrak_breathing.png",
+          "frames": 14,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 11.11,
+          "frame_duration_ms": 90,
+          "loop": true
+        },
+        "death": {
+          "file": "f3_grandmasternoshrak_death.png",
+          "frames": 24,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "hit": {
+          "file": "f3_grandmasternoshrak_hit.png",
+          "frames": 3,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "idle": {
+          "file": "f3_grandmasternoshrak_idle.png",
+          "frames": 20,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        },
+        "run": {
+          "file": "f3_grandmasternoshrak_run.png",
+          "frames": 8,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        }
+      }
+    },
+    {
+      "id": "f4_maehvmk2",
+      "cell": [
+        130,
+        130
+      ],
+      "animations": {
+        "attack": {
+          "file": "f4_maehvmk2_attack.png",
+          "frames": 29,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "breathing": {
+          "file": "f4_maehvmk2_breathing.png",
+          "frames": 14,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 8.33,
+          "frame_duration_ms": 120,
+          "loop": true
+        },
+        "cast": {
+          "file": "f4_maehvmk2_cast.png",
+          "frames": 11,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "castend": {
+          "file": "f4_maehvmk2_castend.png",
+          "frames": 5,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "castloop": {
+          "file": "f4_maehvmk2_castloop.png",
+          "frames": 5,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        },
+        "caststart": {
+          "file": "f4_maehvmk2_caststart.png",
+          "frames": 4,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "death": {
+          "file": "f4_maehvmk2_death.png",
+          "frames": 19,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "hit": {
+          "file": "f4_maehvmk2_hit.png",
+          "frames": 3,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "idle": {
+          "file": "f4_maehvmk2_idle.png",
+          "frames": 20,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        },
+        "run": {
+          "file": "f4_maehvmk2_run.png",
+          "frames": 8,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        }
+      }
+    },
+    {
+      "id": "f5_megabrontodon",
+      "cell": [
+        130,
+        130
+      ],
+      "animations": {
+        "attack": {
+          "file": "f5_megabrontodon_attack.png",
+          "frames": 20,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "breathing": {
+          "file": "f5_megabrontodon_breathing.png",
+          "frames": 14,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 8.33,
+          "frame_duration_ms": 120,
+          "loop": true
+        },
+        "death": {
+          "file": "f5_megabrontodon_death.png",
+          "frames": 17,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "hit": {
+          "file": "f5_megabrontodon_hit.png",
+          "frames": 3,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "idle": {
+          "file": "f5_megabrontodon_idle.png",
+          "frames": 14,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        },
+        "run": {
+          "file": "f5_megabrontodon_run.png",
+          "frames": 10,
+          "frame_width": 130,
+          "frame_height": 130,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        }
+      }
+    },
+    {
+      "id": "f6_greatwhitenorth",
+      "cell": [
+        120,
+        120
+      ],
+      "animations": {
+        "attack": {
+          "file": "f6_greatwhitenorth_attack.png",
+          "frames": 21,
+          "frame_width": 120,
+          "frame_height": 120,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "breathing": {
+          "file": "f6_greatwhitenorth_breathing.png",
+          "frames": 14,
+          "frame_width": 120,
+          "frame_height": 120,
+          "fps": 11.11,
+          "frame_duration_ms": 90,
+          "loop": true
+        },
+        "death": {
+          "file": "f6_greatwhitenorth_death.png",
+          "frames": 17,
+          "frame_width": 120,
+          "frame_height": 120,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "hit": {
+          "file": "f6_greatwhitenorth_hit.png",
+          "frames": 3,
+          "frame_width": 120,
+          "frame_height": 120,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "idle": {
+          "file": "f6_greatwhitenorth_idle.png",
+          "frames": 14,
+          "frame_width": 120,
+          "frame_height": 120,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        },
+        "run": {
+          "file": "f6_greatwhitenorth_run.png",
+          "frames": 8,
+          "frame_width": 120,
+          "frame_height": 120,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        }
+      }
+    },
+    {
+      "id": "neutral_trinitywing",
+      "cell": [
+        100,
+        100
+      ],
+      "animations": {
+        "attack": {
+          "file": "neutral_trinitywing_attack.png",
+          "frames": 32,
+          "frame_width": 100,
+          "frame_height": 100,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "breathing": {
+          "file": "neutral_trinitywing_breathing.png",
+          "frames": 14,
+          "frame_width": 100,
+          "frame_height": 100,
+          "fps": 11.11,
+          "frame_duration_ms": 90,
+          "loop": true
+        },
+        "death": {
+          "file": "neutral_trinitywing_death.png",
+          "frames": 11,
+          "frame_width": 100,
+          "frame_height": 100,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "hit": {
+          "file": "neutral_trinitywing_hit.png",
+          "frames": 3,
+          "frame_width": 100,
+          "frame_height": 100,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "idle": {
+          "file": "neutral_trinitywing_idle.png",
+          "frames": 8,
+          "frame_width": 100,
+          "frame_height": 100,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        },
+        "run": {
+          "file": "neutral_trinitywing_run.png",
+          "frames": 8,
+          "frame_width": 100,
+          "frame_height": 100,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        }
+      }
+    },
+    {
+      "id": "boss_skyfalltyrant",
+      "cell": [
+        100,
+        100
+      ],
+      "animations": {
+        "attack": {
+          "file": "boss_skyfalltyrant_attack.png",
+          "frames": 32,
+          "frame_width": 100,
+          "frame_height": 100,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "breathing": {
+          "file": "boss_skyfalltyrant_breathing.png",
+          "frames": 14,
+          "frame_width": 100,
+          "frame_height": 100,
+          "fps": 11.11,
+          "frame_duration_ms": 90,
+          "loop": true
+        },
+        "death": {
+          "file": "boss_skyfalltyrant_death.png",
+          "frames": 11,
+          "frame_width": 100,
+          "frame_height": 100,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "hit": {
+          "file": "boss_skyfalltyrant_hit.png",
+          "frames": 3,
+          "frame_width": 100,
+          "frame_height": 100,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": false
+        },
+        "idle": {
+          "file": "boss_skyfalltyrant_idle.png",
+          "frames": 8,
+          "frame_width": 100,
+          "frame_height": 100,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        },
+        "run": {
+          "file": "boss_skyfalltyrant_run.png",
+          "frames": 8,
+          "frame_width": 100,
+          "frame_height": 100,
+          "fps": 12.5,
+          "frame_duration_ms": 80,
+          "loop": true
+        }
+      }
+    }
+  ]
+}

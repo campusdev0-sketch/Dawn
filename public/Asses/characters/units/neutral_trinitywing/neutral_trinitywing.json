@@ -1,0 +1,63 @@
+{
+  "id": "neutral_trinitywing",
+  "cell": [
+    100,
+    100
+  ],
+  "animations": {
+    "attack": {
+      "file": "neutral_trinitywing_attack.png",
+      "frames": 32,
+      "frame_width": 100,
+      "frame_height": 100,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "breathing": {
+      "file": "neutral_trinitywing_breathing.png",
+      "frames": 14,
+      "frame_width": 100,
+      "frame_height": 100,
+      "fps": 11.11,
+      "frame_duration_ms": 90,
+      "loop": true
+    },
+    "death": {
+      "file": "neutral_trinitywing_death.png",
+      "frames": 11,
+      "frame_width": 100,
+      "frame_height": 100,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "hit": {
+      "file": "neutral_trinitywing_hit.png",
+      "frames": 3,
+      "frame_width": 100,
+      "frame_height": 100,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "idle": {
+      "file": "neutral_trinitywing_idle.png",
+      "frames": 8,
+      "frame_width": 100,
+      "frame_height": 100,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    },
+    "run": {
+      "file": "neutral_trinitywing_run.png",
+      "frames": 8,
+      "frame_width": 100,
+      "frame_height": 100,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    }
+  }
+}

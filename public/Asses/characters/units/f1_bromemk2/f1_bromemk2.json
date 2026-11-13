@@ -1,0 +1,99 @@
+{
+  "id": "f1_bromemk2",
+  "cell": [
+    130,
+    130
+  ],
+  "animations": {
+    "attack": {
+      "file": "f1_bromemk2_attack.png",
+      "frames": 28,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "breathing": {
+      "file": "f1_bromemk2_breathing.png",
+      "frames": 14,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 8.33,
+      "frame_duration_ms": 120,
+      "loop": true
+    },
+    "cast": {
+      "file": "f1_bromemk2_cast.png",
+      "frames": 10,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "castend": {
+      "file": "f1_bromemk2_castend.png",
+      "frames": 6,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "castloop": {
+      "file": "f1_bromemk2_castloop.png",
+      "frames": 8,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    },
+    "caststart": {
+      "file": "f1_bromemk2_caststart.png",
+      "frames": 7,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "death": {
+      "file": "f1_bromemk2_death.png",
+      "frames": 14,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "hit": {
+      "file": "f1_bromemk2_hit.png",
+      "frames": 3,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "idle": {
+      "file": "f1_bromemk2_idle.png",
+      "frames": 10,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    },
+    "run": {
+      "file": "f1_bromemk2_run.png",
+      "frames": 10,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    }
+  }
+}

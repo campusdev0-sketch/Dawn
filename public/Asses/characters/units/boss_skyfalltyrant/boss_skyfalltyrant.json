@@ -1,0 +1,63 @@
+{
+  "id": "boss_skyfalltyrant",
+  "cell": [
+    100,
+    100
+  ],
+  "animations": {
+    "attack": {
+      "file": "boss_skyfalltyrant_attack.png",
+      "frames": 32,
+      "frame_width": 100,
+      "frame_height": 100,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "breathing": {
+      "file": "boss_skyfalltyrant_breathing.png",
+      "frames": 14,
+      "frame_width": 100,
+      "frame_height": 100,
+      "fps": 11.11,
+      "frame_duration_ms": 90,
+      "loop": true
+    },
+    "death": {
+      "file": "boss_skyfalltyrant_death.png",
+      "frames": 11,
+      "frame_width": 100,
+      "frame_height": 100,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "hit": {
+      "file": "boss_skyfalltyrant_hit.png",
+      "frames": 3,
+      "frame_width": 100,
+      "frame_height": 100,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "idle": {
+      "file": "boss_skyfalltyrant_idle.png",
+      "frames": 8,
+      "frame_width": 100,
+      "frame_height": 100,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    },
+    "run": {
+      "file": "boss_skyfalltyrant_run.png",
+      "frames": 8,
+      "frame_width": 100,
+      "frame_height": 100,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    }
+  }
+}

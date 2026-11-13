@@ -1,0 +1,63 @@
+{
+  "id": "f3_grandmasternoshrak",
+  "cell": [
+    130,
+    130
+  ],
+  "animations": {
+    "attack": {
+      "file": "f3_grandmasternoshrak_attack.png",
+      "frames": 35,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "breathing": {
+      "file": "f3_grandmasternoshrak_breathing.png",
+      "frames": 14,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 11.11,
+      "frame_duration_ms": 90,
+      "loop": true
+    },
+    "death": {
+      "file": "f3_grandmasternoshrak_death.png",
+      "frames": 24,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "hit": {
+      "file": "f3_grandmasternoshrak_hit.png",
+      "frames": 3,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "idle": {
+      "file": "f3_grandmasternoshrak_idle.png",
+      "frames": 20,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    },
+    "run": {
+      "file": "f3_grandmasternoshrak_run.png",
+      "frames": 8,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    }
+  }
+}

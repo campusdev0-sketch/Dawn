@@ -1,0 +1,63 @@
+{
+  "id": "f5_megabrontodon",
+  "cell": [
+    130,
+    130
+  ],
+  "animations": {
+    "attack": {
+      "file": "f5_megabrontodon_attack.png",
+      "frames": 20,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "breathing": {
+      "file": "f5_megabrontodon_breathing.png",
+      "frames": 14,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 8.33,
+      "frame_duration_ms": 120,
+      "loop": true
+    },
+    "death": {
+      "file": "f5_megabrontodon_death.png",
+      "frames": 17,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "hit": {
+      "file": "f5_megabrontodon_hit.png",
+      "frames": 3,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "idle": {
+      "file": "f5_megabrontodon_idle.png",
+      "frames": 14,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    },
+    "run": {
+      "file": "f5_megabrontodon_run.png",
+      "frames": 10,
+      "frame_width": 130,
+      "frame_height": 130,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "f6_greatwhitenorth",
+  "cell": [
+    120,
+    120
+  ],
+  "animations": {
+    "attack": {
+      "file": "f6_greatwhitenorth_attack.png",
+      "frames": 21,
+      "frame_width": 120,
+      "frame_height": 120,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "breathing": {
+      "file": "f6_greatwhitenorth_breathing.png",
+      "frames": 14,
+      "frame_width": 120,
+      "frame_height": 120,
+      "fps": 11.11,
+      "frame_duration_ms": 90,
+      "loop": true
+    },
+    "death": {
+      "file": "f6_greatwhitenorth_death.png",
+      "frames": 17,
+      "frame_width": 120,
+      "frame_height": 120,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "hit": {
+      "file": "f6_greatwhitenorth_hit.png",
+      "frames": 3,
+      "frame_width": 120,
+      "frame_height": 120,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": false
+    },
+    "idle": {
+      "file": "f6_greatwhitenorth_idle.png",
+      "frames": 14,
+      "frame_width": 120,
+      "frame_height": 120,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    },
+    "run": {
+      "file": "f6_greatwhitenorth_run.png",
+      "frames": 8,
+      "frame_width": 120,
+      "frame_height": 120,
+      "fps": 12.5,
+      "frame_duration_ms": 80,
+      "loop": true
+    }
+  }
+}
